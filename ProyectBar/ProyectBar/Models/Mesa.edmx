@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="MesaModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="MesaModelStoreContainer">
+          <EntitySet Name="Mesa" EntityType="MesaModel.Store.Mesa" store:Type="Tables" Schema="dbo" />
+        </EntityContainer>
+        <EntityType Name="Mesa">
+          <Key>
+            <PropertyRef Name="ID_Mesa" />
+          </Key>
+          <Property Name="ID_Mesa" Type="int" Nullable="false" />
+          <Property Name="sector" Type="int" />
+          <Property Name="estado" Type="int" />
+          <Property Name="llegada" Type="time" />
+          <Property Name="estadia" Type="time" />
+          <Property Name="salida" Type="time" />
+        </EntityType>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="MesaModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="mesaEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Mesa" EntityType="MesaModel.Mesa" />
+        </EntityContainer>
+        <EntityType Name="Mesa">
+          <Key>
+            <PropertyRef Name="ID_Mesa" />
+          </Key>
+          <Property Name="ID_Mesa" Type="Int32" Nullable="false" />
+          <Property Name="sector" Type="Int32" />
+          <Property Name="estado" Type="Int32" />
+          <Property Name="llegada" Type="Time" />
+          <Property Name="estadia" Type="Time" />
+          <Property Name="salida" Type="Time" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="MesaModelStoreContainer" CdmEntityContainer="mesaEntities">
+          <EntitySetMapping Name="Mesa">
+            <EntityTypeMapping TypeName="MesaModel.Mesa">
+              <MappingFragment StoreEntitySet="Mesa">
+                <ScalarProperty Name="ID_Mesa" ColumnName="ID_Mesa" />
+                <ScalarProperty Name="sector" ColumnName="sector" />
+                <ScalarProperty Name="estado" ColumnName="estado" />
+                <ScalarProperty Name="llegada" ColumnName="llegada" />
+                <ScalarProperty Name="estadia" ColumnName="estadia" />
+                <ScalarProperty Name="salida" ColumnName="salida" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="mesa">
+        <EntityTypeShape EntityType="MesaModel.Mesa" Width="1.5" PointX="0.75" PointY="0.75" Height="2.172587890625" IsExpanded="true" />
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

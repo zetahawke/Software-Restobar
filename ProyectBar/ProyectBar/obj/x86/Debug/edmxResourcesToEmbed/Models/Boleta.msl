@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BoletaModelStoreContainer" CdmEntityContainer="BoletaEntities">
+    <EntitySetMapping Name="Boleta">
+      <EntityTypeMapping TypeName="BoletaModel.Boleta">
+        <MappingFragment StoreEntitySet="Boleta">
+          <ScalarProperty Name="ID_Boleta" ColumnName="ID_Boleta" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Terminal" ColumnName="Terminal" />
+          <ScalarProperty Name="hora" ColumnName="hora" />
+          <ScalarProperty Name="medio_pago" ColumnName="medio_pago" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

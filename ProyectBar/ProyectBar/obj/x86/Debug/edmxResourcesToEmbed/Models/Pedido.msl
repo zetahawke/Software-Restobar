@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ProyectoBarModelStoreContainer" CdmEntityContainer="PedidoEntities">
+    <EntitySetMapping Name="Pedido">
+      <EntityTypeMapping TypeName="ProyectoBarModel.Pedido">
+        <MappingFragment StoreEntitySet="Pedido">
+          <ScalarProperty Name="ID_Pedido" ColumnName="ID_Pedido" />
+          <ScalarProperty Name="Mesa" ColumnName="Mesa" />
+          <ScalarProperty Name="Garzon" ColumnName="Garzon" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

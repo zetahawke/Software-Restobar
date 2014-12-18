@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Status_MesaModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="Status_MesaModelStoreContainer">
+    <EntitySet Name="Status_Mesa" EntityType="Status_MesaModel.Store.Status_Mesa" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Status_Mesa">
+    <Key>
+      <PropertyRef Name="ID_estado" />
+    </Key>
+    <Property Name="ID_estado" Type="int" Nullable="false" />
+    <Property Name="Descripcion" Type="varchar" MaxLength="50" />
+  </EntityType>
+</Schema>

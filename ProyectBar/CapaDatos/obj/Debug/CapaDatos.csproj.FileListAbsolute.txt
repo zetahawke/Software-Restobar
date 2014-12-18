@@ -1,0 +1,32 @@
+C:\Users\Mauricio\Desktop\ProyectBar\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Mauricio\Desktop\ProyectBar\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Mauricio\Desktop\ProyectBar\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Mauricio\Desktop\ProyectBar\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Zeine\Desktop\ProyectBar\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Zeine\Desktop\ProyectBar\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Zeine\Desktop\ProyectBar\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Zeine\Desktop\ProyectBar\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Zeine\Desktop\ProyectBar\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\ProyectBar\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\ProyectBar\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\ProyectBar\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\ProyectBar\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\ProyectBar\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Fivesides\Desktop\ProyectBar\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Fivesides\Desktop\ProyectBar\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Fivesides\Desktop\ProyectBar\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Fivesides\Desktop\ProyectBar\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Fivesides\Desktop\ProyectBar\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Zeine\Music\ProyectBar\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Zeine\Music\ProyectBar\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Zeine\Music\ProyectBar\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Zeine\Music\ProyectBar\CapaDatos\obj\Debug\CapaDatos.pdb

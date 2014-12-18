@@ -1,0 +1,69 @@
+c:\users\mauricio\documents\visual studio 2010\Projects\ControlDeStock\ControlDeStock\bin\Debug\ControlDeStock.exe
+c:\users\mauricio\documents\visual studio 2010\Projects\ControlDeStock\ControlDeStock\bin\Debug\ControlDeStock.pdb
+c:\users\mauricio\documents\visual studio 2010\Projects\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.ControlDeStock.resources
+c:\users\mauricio\documents\visual studio 2010\Projects\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.Properties.Resources.resources
+c:\users\mauricio\documents\visual studio 2010\Projects\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.csproj.GenerateResource.Cache
+c:\users\mauricio\documents\visual studio 2010\Projects\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.exe
+c:\users\mauricio\documents\visual studio 2010\Projects\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.pdb
+C:\Users\Mauricio\documents\visual studio 2010\Projects\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio\Documents\Visual Studio 2010\Projects\ControlDeStock\ControlDeStock\bin\Debug\Reloj.dll
+C:\Users\Mauricio\Documents\Visual Studio 2010\Projects\ControlDeStock\ControlDeStock\bin\Debug\Reloj.pdb
+C:\Users\Mauricio\documents\visual studio 2010\Projects\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.Categoria.resources
+C:\Users\Mauricio\documents\visual studio 2010\Projects\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.NombreCategoria.resources
+C:\Users\Mauricio\Documents\Visual Studio 2010\Projects\ControlDeStock\ControlDeStock\bin\Debug\ControlDeStock.exe.config
+C:\Users\Mauricio\documents\visual studio 2010\Projects\ControlDeStock\ControlDeStock\bin\Debug\CapaDatos.dll
+C:\Users\Mauricio\documents\visual studio 2010\Projects\ControlDeStock\ControlDeStock\bin\Debug\CapaNegocio.dll
+C:\Users\Mauricio\documents\visual studio 2010\Projects\ControlDeStock\ControlDeStock\bin\Debug\CapaConexion.dll
+C:\Users\Mauricio\documents\visual studio 2010\Projects\ControlDeStock\ControlDeStock\bin\Debug\CapaNegocio.pdb
+C:\Users\Mauricio\documents\visual studio 2010\Projects\ControlDeStock\ControlDeStock\bin\Debug\CapaDatos.pdb
+C:\Users\Mauricio\documents\visual studio 2010\Projects\ControlDeStock\ControlDeStock\bin\Debug\CapaConexion.pdb
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\ControlDeStock\bin\Debug\ControlDeStock.exe.config
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.exe
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.pdb
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.Categoria.resources
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.ControlDeStock.resources
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.NombreCategoria.resources
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.Properties.Resources.resources
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.csproj.GenerateResource.Cache
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\ControlDeStock\bin\Debug\ControlDeStock.exe
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\ControlDeStock\bin\Debug\ControlDeStock.pdb
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\ControlDeStock\bin\Debug\CapaNegocio.dll
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\ControlDeStock\bin\Debug\CapaConexion2.dll
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\ControlDeStock\bin\Debug\CapaDatos.pdb
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\ControlDeStock\bin\Debug\CapaNegocio.pdb
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\ControlDeStock\bin\Debug\Reloj.pdb
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\ControlDeStock\bin\Debug\CapaConexion2.pdb
+E:\ControlDeStock\ControlDeStock\bin\Debug\ControlDeStock.exe.config
+E:\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.exe
+E:\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.pdb
+E:\ControlDeStock\ControlDeStock\bin\Debug\ControlDeStock.exe
+E:\ControlDeStock\ControlDeStock\bin\Debug\ControlDeStock.pdb
+E:\ControlDeStock\ControlDeStock\bin\Debug\CapaConexion2.dll
+E:\ControlDeStock\ControlDeStock\bin\Debug\CapaDatos.pdb
+E:\ControlDeStock\ControlDeStock\bin\Debug\CapaNegocio.pdb
+E:\ControlDeStock\ControlDeStock\bin\Debug\Reloj.pdb
+E:\ControlDeStock\ControlDeStock\bin\Debug\CapaConexion2.pdb
+E:\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.csprojResolveAssemblyReference.cache
+E:\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.Categoria.resources
+E:\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.ControlDeStock.resources
+E:\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.NombreCategoria.resources
+E:\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.Properties.Resources.resources
+E:\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.csproj.GenerateResource.Cache
+E:\ControlDeStock\ControlDeStock\bin\Debug\CapaNegocio.dll
+C:\Users\Mauricio\Desktop\ControlDeStock\ControlDeStock\bin\Debug\ControlDeStock.exe.config
+C:\Users\Mauricio\Desktop\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.exe
+C:\Users\Mauricio\Desktop\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.pdb
+C:\Users\Mauricio\Desktop\ControlDeStock\ControlDeStock\bin\Debug\ControlDeStock.exe
+C:\Users\Mauricio\Desktop\ControlDeStock\ControlDeStock\bin\Debug\ControlDeStock.pdb
+C:\Users\Mauricio\Desktop\ControlDeStock\ControlDeStock\bin\Debug\CapaConexion2.dll
+C:\Users\Mauricio\Desktop\ControlDeStock\ControlDeStock\bin\Debug\CapaDatos.pdb
+C:\Users\Mauricio\Desktop\ControlDeStock\ControlDeStock\bin\Debug\CapaNegocio.pdb
+C:\Users\Mauricio\Desktop\ControlDeStock\ControlDeStock\bin\Debug\Reloj.pdb
+C:\Users\Mauricio\Desktop\ControlDeStock\ControlDeStock\bin\Debug\CapaConexion2.pdb
+C:\Users\Mauricio\Desktop\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio\Desktop\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.Categoria.resources
+C:\Users\Mauricio\Desktop\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.ControlDeStock.resources
+C:\Users\Mauricio\Desktop\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.NombreCategoria.resources
+C:\Users\Mauricio\Desktop\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.Properties.Resources.resources
+C:\Users\Mauricio\Desktop\ControlDeStock\ControlDeStock\obj\x86\Debug\ControlDeStock.csproj.GenerateResource.Cache

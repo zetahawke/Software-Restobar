@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BoletaModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="BoletaModelStoreContainer">
+    <EntitySet Name="Boleta" EntityType="BoletaModel.Store.Boleta" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Boleta">
+    <Key>
+      <PropertyRef Name="ID_Boleta" />
+    </Key>
+    <Property Name="ID_Boleta" Type="int" Nullable="false" />
+    <Property Name="Fecha" Type="datetime" />
+    <Property Name="Terminal" Type="int" />
+    <Property Name="hora" Type="time" />
+    <Property Name="medio_pago" Type="int" />
+  </EntityType>
+</Schema>

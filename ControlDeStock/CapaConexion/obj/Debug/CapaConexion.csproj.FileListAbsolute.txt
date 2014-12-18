@@ -1,0 +1,14 @@
+C:\Users\Mauricio\documents\visual studio 2010\Projects\ControlDeStock\CapaConexion\bin\Debug\CapaConexion.dll
+C:\Users\Mauricio\documents\visual studio 2010\Projects\ControlDeStock\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\Mauricio\documents\visual studio 2010\Projects\ControlDeStock\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\Mauricio\documents\visual studio 2010\Projects\ControlDeStock\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\CapaConexion\bin\Debug\CapaConexion.dll
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\CapaConexion\obj\Debug\CapaConexion.csprojResolveAssemblyReference.cache
+E:\ControlDeStock\CapaConexion\bin\Debug\CapaConexion.dll
+E:\ControlDeStock\CapaConexion\bin\Debug\CapaConexion.pdb
+E:\ControlDeStock\CapaConexion\obj\Debug\CapaConexion.csprojResolveAssemblyReference.cache
+E:\ControlDeStock\CapaConexion\obj\Debug\CapaConexion.dll
+E:\ControlDeStock\CapaConexion\obj\Debug\CapaConexion.pdb

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BoletaModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="BoletaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Boleta" EntityType="BoletaModel.Boleta" />
+  </EntityContainer>
+  <EntityType Name="Boleta">
+    <Key>
+      <PropertyRef Name="ID_Boleta" />
+    </Key>
+    <Property Name="ID_Boleta" Type="Int32" Nullable="false" />
+    <Property Name="Fecha" Type="DateTime" />
+    <Property Name="Terminal" Type="Int32" />
+    <Property Name="hora" Type="Time" />
+    <Property Name="medio_pago" Type="Int32" />
+  </EntityType>
+</Schema>

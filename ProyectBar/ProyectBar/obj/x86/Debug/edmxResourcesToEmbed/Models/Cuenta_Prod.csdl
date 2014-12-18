@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Cuenta_ProdModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="Cuenta_ProdEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Cuenta_Producto" EntityType="Cuenta_ProdModel.Cuenta_Producto" />
+  </EntityContainer>
+  <EntityType Name="Cuenta_Producto">
+    <Key>
+      <PropertyRef Name="ID_Lista" />
+    </Key>
+    <Property Name="ID_Lista" Type="Int32" Nullable="false" />
+    <Property Name="Cuenta" Type="Int32" />
+    <Property Name="producto" Type="Int32" />
+    <Property Name="observacion" Type="String" MaxLength="70" Unicode="false" FixedLength="false" />
+    <Property Name="cantidad" Type="Int32" />
+  </EntityType>
+</Schema>

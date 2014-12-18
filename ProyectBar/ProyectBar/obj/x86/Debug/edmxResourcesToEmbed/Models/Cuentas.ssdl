@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="cuentasModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="cuentasModelStoreContainer">
+    <EntitySet Name="Cuenta" EntityType="cuentasModel.Store.Cuenta" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Cuenta">
+    <Key>
+      <PropertyRef Name="ID_Cuenta" />
+    </Key>
+    <Property Name="ID_Cuenta" Type="int" Nullable="false" />
+    <Property Name="Mesa" Type="int" />
+    <Property Name="nombre" Type="varchar" MaxLength="50" />
+  </EntityType>
+</Schema>

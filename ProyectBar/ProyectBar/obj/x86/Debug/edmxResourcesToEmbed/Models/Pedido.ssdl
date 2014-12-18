@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProyectoBarModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="ProyectoBarModelStoreContainer">
+    <EntitySet Name="Pedido" EntityType="ProyectoBarModel.Store.Pedido" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Pedido">
+    <Key>
+      <PropertyRef Name="ID_Pedido" />
+    </Key>
+    <Property Name="ID_Pedido" Type="int" Nullable="false" />
+    <Property Name="Mesa" Type="int" />
+    <Property Name="Garzon" Type="varchar" MaxLength="50" />
+  </EntityType>
+</Schema>

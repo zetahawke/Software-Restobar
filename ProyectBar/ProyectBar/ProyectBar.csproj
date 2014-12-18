@@ -1,0 +1,459 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B4EBCD25-5A24-4D3D-A06C-581CCCA23482}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProyectBar</RootNamespace>
+    <AssemblyName>ProyectBar</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>ProyectBar.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.PointOfService, Version=1.11.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\PosFor.Net\Files\Microsoft.PointOfService.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.PointOfService.Admin">
+      <HintPath>..\..\..\..\PosFor.Net\Files\Microsoft.PointOfService.Admin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.PointOfService.ControlBase, Version=1.11.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\PosFor.Net\Files\Microsoft.PointOfService.ControlBase.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.1.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AgregarCuenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarCuenta.Designer.cs">
+      <DependentUpon>AgregarCuenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarOrden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarOrden.Designer.cs">
+      <DependentUpon>AgregarOrden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CerrarCaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CerrarCaja.Designer.cs">
+      <DependentUpon>CerrarCaja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContraseñaAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContraseñaAdmin.Designer.cs">
+      <DependentUpon>ContraseñaAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Boleta.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Boleta.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Cat.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cat.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Catego.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Catego.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Comanda.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Comanda.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Cuentas.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cuentas.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Cuenta_Prod.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cuenta_Prod.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Detalle_Boleta.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Detalle_Boleta.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Ingredientes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ingredientes.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Medio_Pago.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Medio_Pago.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Mesa1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Mesa.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Pedido.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Pedido.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Producto.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Producto.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Sector.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Sector.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Status_Mesa.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Status_Mesa.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Terminal.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Terminal.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Usuario.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Usuario.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Observacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Observacion.Designer.cs">
+      <DependentUpon>Observacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pagar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pagar.Designer.cs">
+      <DependentUpon>Pagar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProyectoBarDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProyectoBarDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Razones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Razones.Designer.cs">
+      <DependentUpon>Razones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Turnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Turnos.Designer.cs">
+      <DependentUpon>Turnos.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AgregarCuenta.resx">
+      <DependentUpon>AgregarCuenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarOrden.resx">
+      <DependentUpon>AgregarOrden.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CerrarCaja.resx">
+      <DependentUpon>CerrarCaja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContraseñaAdmin.resx">
+      <DependentUpon>ContraseñaAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Observacion.resx">
+      <DependentUpon>Observacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pagar.resx">
+      <DependentUpon>Pagar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Razones.resx">
+      <DependentUpon>Razones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Turnos.resx">
+      <DependentUpon>Turnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <EntityDeploy Include="Models\Producto.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Producto.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <EntityDeploy Include="Models\Cuentas.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Cuentas.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <EntityDeploy Include="Models\Mesa.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Mesa1.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <EntityDeploy Include="Models\Status_Mesa.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Status_Mesa.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <EntityDeploy Include="Models\Cuenta_Prod.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Cuenta_Prod.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <EntityDeploy Include="Models\Usuario.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Usuario.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <EntityDeploy Include="Models\Pedido.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Pedido.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <EntityDeploy Include="Models\Comanda.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Comanda.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <EntityDeploy Include="Models\Ingredientes.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Ingredientes.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <EntityDeploy Include="Models\Medio_Pago.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Medio_Pago.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <EntityDeploy Include="Models\Detalle_Boleta.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Detalle_Boleta.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <EntityDeploy Include="Models\Boleta.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Boleta.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <EntityDeploy Include="Models\Terminal.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Terminal.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <EntityDeploy Include="Models\Sector.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Sector.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <EntityDeploy Include="Models\Catego.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Catego.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <EntityDeploy Include="Models\Cat.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Cat.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\DataSources\ProyectBar.Models.BoletaEntities.datasource" />
+    <None Include="Properties\DataSources\ProyectBar.Models.CategoEntities.datasource" />
+    <None Include="Properties\DataSources\ProyectBar.Models.CatEntities.datasource" />
+    <None Include="Properties\DataSources\ProyectBar.Models.ComandaEntities.datasource" />
+    <None Include="Properties\DataSources\ProyectBar.Models.CuentasEntities.datasource" />
+    <None Include="Properties\DataSources\ProyectBar.Models.Cuenta_ProdEntities.datasource" />
+    <None Include="Properties\DataSources\ProyectBar.Models.Detalle_BoletaEntities.datasource" />
+    <None Include="Properties\DataSources\ProyectBar.Models.IngredientesEntities.datasource" />
+    <None Include="Properties\DataSources\ProyectBar.Models.Medio_PagoEntities.datasource" />
+    <None Include="Properties\DataSources\ProyectBar.Models.mesaEntities.datasource" />
+    <None Include="Properties\DataSources\ProyectBar.Models.PedidoEntities.datasource" />
+    <None Include="Properties\DataSources\ProyectBar.Models.ProductosEntities.datasource" />
+    <None Include="Properties\DataSources\ProyectBar.Models.SectorEntities.datasource" />
+    <None Include="Properties\DataSources\ProyectBar.Models.Status_MesaEntities.datasource" />
+    <None Include="Properties\DataSources\ProyectBar.Models.TerminalEntities.datasource" />
+    <None Include="Properties\DataSources\ProyectBar.Models.UsuariosEntities.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="ProyectoBarDataSet.xsc">
+      <DependentUpon>ProyectoBarDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ProyectoBarDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProyectoBarDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ProyectoBarDataSet.xss">
+      <DependentUpon>ProyectoBarDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5 SP2</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.10.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2008 Express Edition</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="img\Agua.png" />
+    <Content Include="img\Bebida.png" />
+    <Content Include="img\Botella Champagne.png" />
+    <Content Include="img\Botella Vino.png" />
+    <Content Include="img\Café 2.png" />
+    <Content Include="img\Café.png" />
+    <Content Include="img\Cerveza.png" />
+    <Content Include="img\Champagne.png" />
+    <Content Include="img\Coca Cola Lata.png" />
+    <Content Include="img\Copa Vino 2.png" />
+    <Content Include="img\Grafico.png" />
+    <Content Include="img\Leche.png" />
+    <Content Include="img\mesita.png" />
+    <Content Include="img\Pepsi.png" />
+    <Content Include="img\Trago.png" />
+    <Content Include="img\Té.png" />
+    <Content Include="img\Vino Blanco.png" />
+    <Content Include="img\Vino Tinto.png" />
+    <Content Include="ProyectoBar.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ProyectoBar_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>ProyectoBar.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaDatos\CapaDatos.csproj">
+      <Project>{AB606A84-807B-4CCE-987A-FCBFB48061BA}</Project>
+      <Name>CapaDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaNegocio\CapaNegocio.csproj">
+      <Project>{4FF6D148-BA8C-4C10-853F-8FD21033DC81}</Project>
+      <Name>CapaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

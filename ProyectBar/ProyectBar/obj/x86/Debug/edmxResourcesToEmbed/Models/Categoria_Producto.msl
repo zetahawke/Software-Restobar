@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Categoria_ProductoModelStoreContainer" CdmEntityContainer="Categoria_ProductoEntities">
+    <EntitySetMapping Name="Categoria_Producto">
+      <EntityTypeMapping TypeName="Categoria_ProductoModel.Categoria_Producto">
+        <MappingFragment StoreEntitySet="Categoria_Producto">
+          <ScalarProperty Name="ID_Categoria" ColumnName="ID_Categoria" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="dcto_HappyH" ColumnName="dcto_HappyH" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,33 @@
+C:\Users\Mauricio\Desktop\ProyectBar\CapaConexion2\bin\Debug\CapaConexion2.dll
+C:\Users\Mauricio\Desktop\ProyectBar\CapaConexion2\bin\Debug\CapaConexion2.pdb
+C:\Users\Mauricio\Desktop\ProyectBar\CapaConexion2\obj\Debug\CapaConexion2.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio\Desktop\ProyectBar\CapaConexion2\obj\Debug\CapaConexion2.dll
+C:\Users\Mauricio\Desktop\ProyectBar\CapaConexion2\obj\Debug\CapaConexion2.pdb
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\CapaConexion2\bin\Debug\CapaConexion2.dll
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\CapaConexion2\bin\Debug\CapaConexion2.pdb
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\CapaConexion2\obj\Debug\CapaConexion2.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\CapaConexion2\obj\Debug\CapaConexion2.dll
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\CapaConexion2\obj\Debug\CapaConexion2.pdb
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\CapaConexion2\bin\Debug\CapaConexion2.dll
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\CapaConexion2\bin\Debug\CapaConexion2.pdb
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\CapaConexion2\obj\Debug\CapaConexion2.dll
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\CapaConexion2\obj\Debug\CapaConexion2.pdb
+C:\Users\Zeine\Desktop\ProyectBar\CapaConexion2\bin\Debug\CapaConexion2.dll
+C:\Users\Zeine\Desktop\ProyectBar\CapaConexion2\bin\Debug\CapaConexion2.pdb
+C:\Users\Zeine\Desktop\ProyectBar\CapaConexion2\obj\Debug\CapaConexion2.csprojResolveAssemblyReference.cache
+C:\Users\Zeine\Desktop\ProyectBar\CapaConexion2\obj\Debug\CapaConexion2.dll
+C:\Users\Zeine\Desktop\ProyectBar\CapaConexion2\obj\Debug\CapaConexion2.pdb
+C:\Users\Administrador\Desktop\ProyectBar\CapaConexion2\bin\Debug\CapaConexion2.dll
+C:\Users\Administrador\Desktop\ProyectBar\CapaConexion2\bin\Debug\CapaConexion2.pdb
+C:\Users\Administrador\Desktop\ProyectBar\CapaConexion2\obj\Debug\CapaConexion2.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\ProyectBar\CapaConexion2\obj\Debug\CapaConexion2.dll
+C:\Users\Administrador\Desktop\ProyectBar\CapaConexion2\obj\Debug\CapaConexion2.pdb
+C:\Users\Fivesides\Desktop\ProyectBar\CapaConexion2\bin\Debug\CapaConexion2.dll
+C:\Users\Fivesides\Desktop\ProyectBar\CapaConexion2\bin\Debug\CapaConexion2.pdb
+C:\Users\Fivesides\Desktop\ProyectBar\CapaConexion2\obj\Debug\CapaConexion2.csprojResolveAssemblyReference.cache
+C:\Users\Fivesides\Desktop\ProyectBar\CapaConexion2\obj\Debug\CapaConexion2.dll
+C:\Users\Fivesides\Desktop\ProyectBar\CapaConexion2\obj\Debug\CapaConexion2.pdb
+C:\Users\Zeine\Music\ProyectBar\CapaConexion2\bin\Debug\CapaConexion2.dll
+C:\Users\Zeine\Music\ProyectBar\CapaConexion2\bin\Debug\CapaConexion2.pdb
+C:\Users\Zeine\Music\ProyectBar\CapaConexion2\obj\Debug\CapaConexion2.dll
+C:\Users\Zeine\Music\ProyectBar\CapaConexion2\obj\Debug\CapaConexion2.pdb

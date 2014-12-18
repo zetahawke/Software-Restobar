@@ -1,0 +1,2 @@
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\CapaConexion\obj\x86\Debug\CapaConexion.Properties.Resources.resources
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\CapaConexion\obj\x86\Debug\CapaConexion.csproj.GenerateResource.Cache

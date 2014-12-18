@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Medio_PagoModelStoreContainer" CdmEntityContainer="Medio_PagoEntities">
+    <EntitySetMapping Name="Medio_Pago">
+      <EntityTypeMapping TypeName="Medio_PagoModel.Medio_Pago">
+        <MappingFragment StoreEntitySet="Medio_Pago">
+          <ScalarProperty Name="ID_Medio" ColumnName="ID_Medio" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

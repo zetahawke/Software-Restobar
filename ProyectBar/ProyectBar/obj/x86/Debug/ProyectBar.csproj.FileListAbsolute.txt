@@ -1,0 +1,216 @@
+C:\Users\Mauricio\Desktop\ProyectBar\ProyectBar\bin\Debug\ProyectBar.exe.config
+C:\Users\Mauricio\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.exe
+C:\Users\Mauricio\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.pdb
+C:\Users\Mauricio\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.AgregarCuenta.resources
+C:\Users\Mauricio\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.AgregarOrden.resources
+C:\Users\Mauricio\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.ContraseñaAdmin.resources
+C:\Users\Mauricio\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Form1.resources
+C:\Users\Mauricio\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Properties.Resources.resources
+C:\Users\Mauricio\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.csproj.GenerateResource.Cache
+C:\Users\Mauricio\Desktop\ProyectBar\ProyectBar\bin\Debug\ProyectoBar.mdf
+C:\Users\Mauricio\Desktop\ProyectBar\ProyectBar\bin\Debug\ProyectoBar_log.ldf
+C:\Users\Mauricio\Desktop\ProyectBar\ProyectBar\bin\Debug\ProyectBar.exe
+C:\Users\Mauricio\Desktop\ProyectBar\ProyectBar\bin\Debug\ProyectBar.pdb
+C:\Users\Mauricio\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaDatos.dll
+C:\Users\Mauricio\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaNegocio.dll
+C:\Users\Mauricio\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaConexion2.dll
+C:\Users\Mauricio\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaDatos.pdb
+C:\Users\Mauricio\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaNegocio.pdb
+C:\Users\Mauricio\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaConexion2.pdb
+C:\Users\Mauricio\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Pagar.resources
+E:\ProyectBar\ProyectBar\bin\Debug\ProyectBar.exe.config
+E:\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.exe
+E:\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.pdb
+E:\ProyectBar\ProyectBar\bin\Debug\ProyectoBar.mdf
+E:\ProyectBar\ProyectBar\bin\Debug\ProyectoBar_log.ldf
+E:\ProyectBar\ProyectBar\bin\Debug\ProyectBar.exe
+E:\ProyectBar\ProyectBar\bin\Debug\ProyectBar.pdb
+E:\ProyectBar\ProyectBar\bin\Debug\CapaDatos.dll
+E:\ProyectBar\ProyectBar\bin\Debug\CapaNegocio.dll
+E:\ProyectBar\ProyectBar\bin\Debug\CapaConexion2.dll
+E:\ProyectBar\ProyectBar\bin\Debug\CapaDatos.pdb
+E:\ProyectBar\ProyectBar\bin\Debug\CapaNegocio.pdb
+E:\ProyectBar\ProyectBar\bin\Debug\CapaConexion2.pdb
+E:\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.csprojResolveAssemblyReference.cache
+E:\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.AgregarCuenta.resources
+E:\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.AgregarOrden.resources
+E:\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.ContraseñaAdmin.resources
+E:\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Form1.resources
+E:\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Pagar.resources
+E:\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Properties.Resources.resources
+E:\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.csproj.GenerateResource.Cache
+C:\Users\Mauricio\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Observacion.resources
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\ProyectBar\bin\Debug\ProyectBar.exe.config
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.exe
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.pdb
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\ProyectBar\bin\Debug\ProyectoBar.mdf
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\ProyectBar\bin\Debug\ProyectoBar_log.ldf
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\ProyectBar\bin\Debug\ProyectBar.exe
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\ProyectBar\bin\Debug\ProyectBar.pdb
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\ProyectBar\bin\Debug\CapaDatos.dll
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\ProyectBar\bin\Debug\CapaNegocio.dll
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\ProyectBar\bin\Debug\CapaConexion2.dll
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\ProyectBar\bin\Debug\CapaDatos.pdb
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\ProyectBar\bin\Debug\CapaNegocio.pdb
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\ProyectBar\bin\Debug\CapaConexion2.pdb
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.AgregarCuenta.resources
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.AgregarOrden.resources
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.ContraseñaAdmin.resources
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Form1.resources
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Observacion.resources
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Pagar.resources
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Properties.Resources.resources
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.csproj.GenerateResource.Cache
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\bin\Debug\ProyectoBar.mdf
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\bin\Debug\ProyectoBar_log.ldf
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\bin\Debug\ProyectBar.exe.config
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\bin\Debug\ProyectBar.exe
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\bin\Debug\ProyectBar.pdb
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\bin\Debug\CapaDatos.dll
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\bin\Debug\CapaNegocio.dll
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\bin\Debug\Microsoft.PointOfService.Admin.dll
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\bin\Debug\Microsoft.PointOfService.ControlBase.dll
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\bin\Debug\Microsoft.PointOfService.dll
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\bin\Debug\CapaConexion2.dll
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\bin\Debug\CapaDatos.pdb
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\bin\Debug\CapaNegocio.pdb
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\bin\Debug\CapaConexion2.pdb
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.csprojResolveAssemblyReference.cache
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.AgregarCuenta.resources
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.AgregarOrden.resources
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.ContraseñaAdmin.resources
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Form1.resources
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Observacion.resources
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Pagar.resources
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Properties.Resources.resources
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Turnos.resources
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.csproj.GenerateResource.Cache
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.exe
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.pdb
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\bin\Debug\ProyectBar.exe.config
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.exe
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.pdb
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\bin\Debug\ProyectoBar.mdf
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\bin\Debug\ProyectoBar_log.ldf
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaDatos.dll
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaNegocio.dll
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaConexion2.dll
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaDatos.pdb
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaNegocio.pdb
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaConexion2.pdb
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.csprojResolveAssemblyReference.cache
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.AgregarCuenta.resources
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.AgregarOrden.resources
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.CerrarCaja.resources
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.ContraseñaAdmin.resources
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Form1.resources
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Observacion.resources
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Pagar.resources
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Properties.Resources.resources
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Razones.resources
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Turnos.resources
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.csproj.GenerateResource.Cache
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\bin\Debug\ProyectBar.exe
+C:\Users\Zeine\Desktop\ProyectBar\ProyectBar\bin\Debug\ProyectBar.pdb
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\bin\Debug\ProyectBar.exe.config
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\obj\x86\Debug\ProyectBar.exe
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\obj\x86\Debug\ProyectBar.pdb
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\bin\Debug\ProyectoBar.mdf
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\bin\Debug\ProyectoBar_log.ldf
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\bin\Debug\ProyectBar.exe
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\bin\Debug\ProyectBar.pdb
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\bin\Debug\CapaDatos.dll
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\bin\Debug\CapaNegocio.dll
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\bin\Debug\CapaConexion2.dll
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\bin\Debug\CapaDatos.pdb
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\bin\Debug\CapaNegocio.pdb
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\bin\Debug\CapaConexion2.pdb
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\obj\x86\Debug\ProyectBar.csprojResolveAssemblyReference.cache
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\obj\x86\Debug\ProyectBar.AgregarCuenta.resources
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\obj\x86\Debug\ProyectBar.AgregarOrden.resources
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\obj\x86\Debug\ProyectBar.CerrarCaja.resources
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\obj\x86\Debug\ProyectBar.ContraseñaAdmin.resources
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\obj\x86\Debug\ProyectBar.Form1.resources
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\obj\x86\Debug\ProyectBar.Observacion.resources
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\obj\x86\Debug\ProyectBar.Pagar.resources
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\obj\x86\Debug\ProyectBar.Properties.Resources.resources
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\obj\x86\Debug\ProyectBar.Razones.resources
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\obj\x86\Debug\ProyectBar.Turnos.resources
+C:\Users\Zeine\Desktop\ProyectBarAyer\ProyectBar\obj\x86\Debug\ProyectBar.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\bin\Debug\ProyectoBar.mdf
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\bin\Debug\ProyectoBar_log.ldf
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\bin\Debug\ProyectBar.exe.config
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\bin\Debug\ProyectBar.exe
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\bin\Debug\ProyectBar.pdb
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaConexion2.dll
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaConexion2.pdb
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.AgregarCuenta.resources
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.AgregarOrden.resources
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.CerrarCaja.resources
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.ContraseñaAdmin.resources
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Form1.resources
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Observacion.resources
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Pagar.resources
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Properties.Resources.resources
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Razones.resources
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Turnos.resources
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.exe
+C:\Users\Administrador\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.pdb
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\bin\Debug\ProyectBar.exe.config
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.exe
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.pdb
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.csprojResolveAssemblyReference.cache
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.AgregarCuenta.resources
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.AgregarOrden.resources
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.CerrarCaja.resources
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.ContraseñaAdmin.resources
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Form1.resources
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Observacion.resources
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Pagar.resources
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Properties.Resources.resources
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Razones.resources
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Turnos.resources
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.csproj.GenerateResource.Cache
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\bin\Debug\ProyectoBar.mdf
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\bin\Debug\ProyectoBar_log.ldf
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\bin\Debug\ProyectBar.exe
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\bin\Debug\ProyectBar.pdb
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaDatos.dll
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaNegocio.dll
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaConexion2.dll
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaDatos.pdb
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaNegocio.pdb
+C:\Users\Fivesides\Desktop\ProyectBar\ProyectBar\bin\Debug\CapaConexion2.pdb
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\bin\Debug\ProyectoBar.mdf
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\bin\Debug\ProyectoBar_log.ldf
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\bin\Debug\ProyectBar.exe.config
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\bin\Debug\ProyectBar.exe
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\bin\Debug\ProyectBar.pdb
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\bin\Debug\CapaDatos.dll
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\bin\Debug\CapaNegocio.dll
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\bin\Debug\CapaConexion2.dll
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\bin\Debug\CapaDatos.pdb
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\bin\Debug\CapaNegocio.pdb
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\bin\Debug\CapaConexion2.pdb
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.csprojResolveAssemblyReference.cache
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.AgregarCuenta.resources
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.AgregarOrden.resources
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.CerrarCaja.resources
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.ContraseñaAdmin.resources
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Form1.resources
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Observacion.resources
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Pagar.resources
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Properties.Resources.resources
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Razones.resources
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.Turnos.resources
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.csproj.GenerateResource.Cache
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.exe
+C:\Users\Zeine\Music\ProyectBar\ProyectBar\obj\x86\Debug\ProyectBar.pdb

@@ -1,0 +1,72 @@
+C:\Users\Mauricio\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Mauricio\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Mauricio\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaConexion2.dll
+C:\Users\Mauricio\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Mauricio\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaConexion2.pdb
+C:\Users\Mauricio\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Mauricio\Desktop\ProyectBar\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio\Desktop\ProyectBar\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Mauricio\Desktop\ProyectBar\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\CapaNegocio\bin\Debug\CapaConexion2.dll
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\CapaNegocio\bin\Debug\CapaConexion2.pdb
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Mauricio\Desktop\Pendrive Azul\ProyectBar\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\CapaNegocio\bin\Debug\CapaConexion2.dll
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\CapaNegocio\bin\Debug\CapaConexion2.pdb
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Zeine\documents\visual studio 2010\Projects\ProyectBar\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Zeine\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Zeine\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Zeine\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaConexion2.dll
+C:\Users\Zeine\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Zeine\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaConexion2.pdb
+C:\Users\Zeine\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Zeine\Desktop\ProyectBar\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Zeine\Desktop\ProyectBar\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Zeine\Desktop\ProyectBar\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Zeine\Desktop\ProyectBarAyer\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Zeine\Desktop\ProyectBarAyer\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Zeine\Desktop\ProyectBarAyer\CapaNegocio\bin\Debug\CapaConexion2.dll
+C:\Users\Zeine\Desktop\ProyectBarAyer\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Zeine\Desktop\ProyectBarAyer\CapaNegocio\bin\Debug\CapaConexion2.pdb
+C:\Users\Zeine\Desktop\ProyectBarAyer\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Zeine\Desktop\ProyectBarAyer\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Zeine\Desktop\ProyectBarAyer\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Zeine\Desktop\ProyectBarAyer\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaConexion2.dll
+C:\Users\Administrador\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaConexion2.pdb
+C:\Users\Administrador\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\ProyectBar\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\ProyectBar\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\ProyectBar\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Fivesides\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Fivesides\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Fivesides\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaConexion2.dll
+C:\Users\Fivesides\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Fivesides\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaConexion2.pdb
+C:\Users\Fivesides\Desktop\ProyectBar\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Fivesides\Desktop\ProyectBar\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Fivesides\Desktop\ProyectBar\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Fivesides\Desktop\ProyectBar\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Zeine\Music\ProyectBar\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Zeine\Music\ProyectBar\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Zeine\Music\ProyectBar\CapaNegocio\bin\Debug\CapaConexion2.dll
+C:\Users\Zeine\Music\ProyectBar\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Zeine\Music\ProyectBar\CapaNegocio\bin\Debug\CapaConexion2.pdb
+C:\Users\Zeine\Music\ProyectBar\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Zeine\Music\ProyectBar\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Zeine\Music\ProyectBar\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Zeine\Music\ProyectBar\CapaNegocio\obj\Debug\CapaNegocio.pdb

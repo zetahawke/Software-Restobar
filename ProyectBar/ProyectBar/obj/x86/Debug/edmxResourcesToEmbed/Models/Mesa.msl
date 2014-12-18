@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MesaModelStoreContainer" CdmEntityContainer="mesaEntities">
+    <EntitySetMapping Name="Mesa">
+      <EntityTypeMapping TypeName="MesaModel.Mesa">
+        <MappingFragment StoreEntitySet="Mesa">
+          <ScalarProperty Name="ID_Mesa" ColumnName="ID_Mesa" />
+          <ScalarProperty Name="sector" ColumnName="sector" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="llegada" ColumnName="llegada" />
+          <ScalarProperty Name="estadia" ColumnName="estadia" />
+          <ScalarProperty Name="salida" ColumnName="salida" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

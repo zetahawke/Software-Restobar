@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Medio_PagoModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="Medio_PagoModelStoreContainer">
+    <EntitySet Name="Medio_Pago" EntityType="Medio_PagoModel.Store.Medio_Pago" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Medio_Pago">
+    <Key>
+      <PropertyRef Name="ID_Medio" />
+    </Key>
+    <Property Name="ID_Medio" Type="int" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="50" />
+    <Property Name="descripcion" Type="varchar" MaxLength="50" />
+  </EntityType>
+</Schema>

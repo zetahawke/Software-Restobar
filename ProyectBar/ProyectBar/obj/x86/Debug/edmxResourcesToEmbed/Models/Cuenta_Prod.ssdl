@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Cuenta_ProdModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="Cuenta_ProdModelStoreContainer">
+    <EntitySet Name="Cuenta_Producto" EntityType="Cuenta_ProdModel.Store.Cuenta_Producto" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Cuenta_Producto">
+    <Key>
+      <PropertyRef Name="ID_Lista" />
+    </Key>
+    <Property Name="ID_Lista" Type="int" Nullable="false" />
+    <Property Name="Cuenta" Type="int" />
+    <Property Name="producto" Type="int" />
+    <Property Name="observacion" Type="varchar" MaxLength="70" />
+    <Property Name="cantidad" Type="int" />
+  </EntityType>
+</Schema>

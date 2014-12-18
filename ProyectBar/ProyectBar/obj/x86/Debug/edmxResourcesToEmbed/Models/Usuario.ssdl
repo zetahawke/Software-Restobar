@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="UsuarioModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="UsuarioModelStoreContainer">
+    <EntitySet Name="Usuario" EntityType="UsuarioModel.Store.Usuario" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="Contraseña" />
+    </Key>
+    <Property Name="Contraseña" Type="varchar" Nullable="false" MaxLength="12" />
+    <Property Name="nombre" Type="varchar" MaxLength="50" />
+    <Property Name="rut" Type="varchar" MaxLength="50" />
+    <Property Name="apellido" Type="varchar" MaxLength="50" />
+    <Property Name="privilegio" Type="varchar" MaxLength="50" />
+  </EntityType>
+</Schema>

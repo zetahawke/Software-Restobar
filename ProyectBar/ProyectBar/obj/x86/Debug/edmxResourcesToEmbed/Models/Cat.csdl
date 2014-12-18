@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="catModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="CatEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Cate" EntityType="catModel.Cate" />
+  </EntityContainer>
+  <EntityType Name="Cate">
+    <Key>
+      <PropertyRef Name="ID_Cate" />
+    </Key>
+    <Property Name="ID_Cate" Type="Int32" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+  </EntityType>
+</Schema>

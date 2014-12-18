@@ -1,0 +1,17 @@
+C:\Users\Mauricio\documents\visual studio 2010\Projects\ControlDeStock\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Mauricio\documents\visual studio 2010\Projects\ControlDeStock\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Mauricio\documents\visual studio 2010\Projects\ControlDeStock\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Mauricio\documents\visual studio 2010\Projects\ControlDeStock\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Mauricio\documents\visual studio 2010\Projects\ControlDeStock\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio\documents\visual studio 2010\Projects\ControlDeStock\CapaNegocio\bin\Debug\CapaConexion.dll
+C:\Users\Mauricio\documents\visual studio 2010\Projects\ControlDeStock\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Mauricio\documents\visual studio 2010\Projects\ControlDeStock\CapaNegocio\bin\Debug\CapaConexion.pdb
+C:\Users\Mauricio\documents\visual studio 2010\Projects\ControlDeStock\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\CapaNegocio\bin\Debug\CapaConexion.dll
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\CapaNegocio\bin\Debug\CapaConexion.pdb
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Mauricio\Documents\Visual Studio 2010\ControlDeStock\CapaNegocio\obj\Debug\CapaNegocio.pdb

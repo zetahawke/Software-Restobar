@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="BoletaModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="BoletaModelStoreContainer">
+          <EntitySet Name="Boleta" EntityType="BoletaModel.Store.Boleta" store:Type="Tables" Schema="dbo" />
+        </EntityContainer>
+        <EntityType Name="Boleta">
+          <Key>
+            <PropertyRef Name="ID_Boleta" />
+          </Key>
+          <Property Name="ID_Boleta" Type="int" Nullable="false" />
+          <Property Name="Fecha" Type="datetime" />
+          <Property Name="Terminal" Type="int" />
+          <Property Name="hora" Type="time" />
+          <Property Name="medio_pago" Type="int" />
+        </EntityType>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="BoletaModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="BoletaEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Boleta" EntityType="BoletaModel.Boleta" />
+        </EntityContainer>
+        <EntityType Name="Boleta">
+          <Key>
+            <PropertyRef Name="ID_Boleta" />
+          </Key>
+          <Property Name="ID_Boleta" Type="Int32" Nullable="false" />
+          <Property Name="Fecha" Type="DateTime" />
+          <Property Name="Terminal" Type="Int32" />
+          <Property Name="hora" Type="Time" />
+          <Property Name="medio_pago" Type="Int32" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="BoletaModelStoreContainer" CdmEntityContainer="BoletaEntities">
+          <EntitySetMapping Name="Boleta">
+            <EntityTypeMapping TypeName="BoletaModel.Boleta">
+              <MappingFragment StoreEntitySet="Boleta">
+                <ScalarProperty Name="ID_Boleta" ColumnName="ID_Boleta" />
+                <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+                <ScalarProperty Name="Terminal" ColumnName="Terminal" />
+                <ScalarProperty Name="hora" ColumnName="hora" />
+                <ScalarProperty Name="medio_pago" ColumnName="medio_pago" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="Boleta">
+        <EntityTypeShape EntityType="BoletaModel.Boleta" Width="1.5" PointX="0.75" PointY="0.75" Height="1.9802864583333331" IsExpanded="true" />
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>
